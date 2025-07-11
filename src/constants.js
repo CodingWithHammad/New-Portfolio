@@ -55,6 +55,8 @@ import imagesearchLogo from './assets/work_logo/image_search.png';
 import removebgLogo from './assets/work_logo/remove_bg.png';
 
 
+
+
 export const SkillsInfo = [
   {
     title: 'Frontend',
@@ -133,23 +135,23 @@ export const SkillsInfo = [
         " Next Js",
       ],
     },
-    {
-      id: 1,
-      img: agcLogo,
-      role: "Fullstack Engineer",
-      company: "Agumentik Group of Companies",
-      date: "July 2023 - March 2024",
-      desc: "Contributed to innovative projects as a Fullstack Engineer, leading both frontend and backend development using technologies such as HTML, CSS, JavaScript, PHP, SQL, Bootstrap, and ReactJS. Worked closely with the team to deliver responsive, high-performance web applications and improve user experience through seamless integration of various technologies.",
-      skills: [
-        "ReactJS",
-        "Redux",
-        "JavaScript",
-        "Tailwind CSS",
-        "HTML",
-        "CSS",
-        "SQL",
-      ],
-    },
+    // {
+    //   id: 1,
+    //   img: agcLogo,
+    //   role: "Fullstack Engineer",
+    //   company: "Agumentik Group of Companies",
+    //   date: "July 2025 - March 2024",
+    //   desc: "Contributed to innovative projects as a Fullstack Engineer, leading both frontend and backend development using technologies such as HTML, CSS, JavaScript, PHP, SQL, Bootstrap, and ReactJS. Worked closely with the team to deliver responsive, high-performance web applications and improve user experience through seamless integration of various technologies.",
+    //   skills: [
+    //     "ReactJS",
+    //     "Redux",
+    //     "JavaScript",
+    //     "Tailwind CSS",
+    //     "HTML",
+    //     "CSS",
+    //     "SQL",
+    //   ],
+    // },
     {
       id: 2,
       img: newtonschoolLogo,
@@ -184,7 +186,7 @@ export const SkillsInfo = [
       school: "BSA College, Mathura",
       date: "Sept 2018 - Aug 2021",
       grade: "73.2%",
-      desc: "I completed my Bachelor's degree in Computer Science (B.Sc.) from BSA College, Mathura. Throughout my studies, I was immersed in a variety of subjects that deepened my understanding of computing and technology. From exploring Data Structures and Algorithms to diving into Web Development and Database Management Systems, I gained practical insights into the world of software development. My time at BSA College allowed me to work on projects that applied theoretical concepts to real-world problems.",
+      desc: "I completed my Bachelor's degree in Computer Science (BCA) from TMU College, Moradabad. Throughout my studies, I was immersed in a variety of subjects that deepened my understanding of computing and technology. From exploring Data Structures and Algorithms to diving into Web Development and Database Management Systems, I gained practical insights into the world of software development. My time at BSA College allowed me to work on projects that applied theoretical concepts to real-world problems.",
       degree: "Bachelor of Science - BSC (Computer Science)",
     },
     {
