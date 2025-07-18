@@ -14,7 +14,7 @@ const About = () => {
         <div className="md:w-1/2 text-center md:text-left mt-8 md:mt-0">
           {/* Greeting */}
           <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold text-white mb-2 leading-tight">
-            Hi, myself
+            Hi, I m
           </h1>
           {/* Name */}
           <h2 className="text-4xl sm:text-5xl md:text-6xl font-bold text-white mb-4 leading-tight">
@@ -43,12 +43,11 @@ const About = () => {
           {/* About Me Paragraph */}
           <p className="text-base sm:text-lg md:text-lg text-gray-400 mb-10 mt-8 leading-relaxed">
             My name is Hammad Ullah Khan, and I am currently in my 3rd year pursuing a Bachelor of Computer Applications (BCA). I am a passionate Full Stack Developer with experience in creating basic to medium-level projects featuring cool and engaging user interfaces. I am a dedicated and hardworking student, always eager to learn and improve. I believe in continuous learning and am constantly exploring new technologies and skills to grow in the field of software development.
-            https://github.com/CodingWithHammad 
-            https://www.linkedin.com/in/hammad-ullah-khan-8a5a02333/
+            
           </p>
           {/* Resume Button */}
           <a
-            href="https://drive.google.com/file/d/1_pLl2wjYVCU-wnqXIhjhYr0YC0SJXvwv/view?usp=sharing"
+            href="https://drive.google.com/file/d/1wNaS2O8vTiFtQ9JCuFx___N_JG3lX8oK/view?usp=drivesdk"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block text-white py-3 px-8 rounded-full mt-5 text-lg font-bold transition duration-300 transform hover:scale-105"
@@ -74,7 +73,7 @@ const About = () => {
           >
             <img
               src={profileImage}
-              alt="Tarun Kaushik"
+              alt="Hammad Ullah Khan"
               className="w-full h-full rounded-full object-cover drop-shadow-[0_10px_20px_rgba(130,69,236,0.5)]"
             />
           </Tilt>
