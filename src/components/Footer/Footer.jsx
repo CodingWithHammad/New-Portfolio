@@ -61,6 +61,7 @@ const Footer = () => {
         <p className="text-sm text-gray-400 mt-6">
           © 2025 Hammad Ullah Khan. All rights reserved
         </p>
+        <p>thnks for your support</p>
       </div>
     </footer>
   );
