@@ -96,7 +96,7 @@ const Contact = () => {
             placeholder="Message"
             rows="4"
             required
-            className="w-full p-3 rounded-md bg-[#131025] text-white border border-gray-600 focus:outline-none focus:border-purple-500"
+            className="w-full p-3 rounded-md bg-[#110e21] text-white border border-gray-600 focus:outline-none focus:border-purple-500"
           />
           
           {/* Send Button */}
